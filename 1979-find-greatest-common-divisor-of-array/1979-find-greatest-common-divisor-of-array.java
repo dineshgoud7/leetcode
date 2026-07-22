@@ -4,9 +4,12 @@ class Solution {
         return gcd(b,a%b);
     }
     public int findGCD(int[] nums) {
-        Arrays.sort(nums);
-        int min=nums[0];
-        int max=nums[nums.length-1];
+        int min=Integer.MAX_VALUE;
+        int max=Integer.MIN_VALUE;
+        for(int num:nums){
+            min=Math.min(min,num);
+            max=Math.max(max,num);
+        }
         return gcd(min,max);
     }
 }
