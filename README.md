@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/dineshgoud7/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dineshgoud7/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dineshgoud7/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dineshgoud7/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dineshgoud7/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/dineshgoud7/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/dineshgoud7/leetcode/tree/master/2670-find-the-distinct-difference-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dineshgoud7/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/dineshgoud7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dineshgoud7/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dineshgoud7/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2670-find-the-distinct-difference-array](https://github.com/dineshgoud7/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dineshgoud7/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dineshgoud7/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
 |  |
 | ------- |
