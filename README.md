@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dineshgoud7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dineshgoud7/leetcode/tree/master/0027-remove-element) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshgoud7/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/dineshgoud7/leetcode/tree/master/0541-reverse-string-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dineshgoud7/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dineshgoud7/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dineshgoud7/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dineshgoud7/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/dineshgoud7/leetcode/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshgoud7/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/dineshgoud7/leetcode/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/dineshgoud7/leetcode/tree/master/0796-rotate-string) |
 | [2810-faulty-keyboard](https://github.com/dineshgoud7/leetcode/tree/master/2810-faulty-keyboard) |
 | [3794-reverse-string-prefix](https://github.com/dineshgoud7/leetcode/tree/master/3794-reverse-string-prefix) |
