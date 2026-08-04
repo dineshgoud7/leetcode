@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dineshgoud7/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dineshgoud7/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dineshgoud7/leetcode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/dineshgoud7/leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/dineshgoud7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dineshgoud7/leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/dineshgoud7/leetcode/tree/master/0912-sort-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dineshgoud7/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/dineshgoud7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshgoud7/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/dineshgoud7/leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/dineshgoud7/leetcode/tree/master/0541-reverse-string-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dineshgoud7/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dineshgoud7/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dineshgoud7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/dineshgoud7/leetcode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/dineshgoud7/leetcode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/dineshgoud7/leetcode/tree/master/0912-sort-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dineshgoud7/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dineshgoud7/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dineshgoud7/leetcode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/dineshgoud7/leetcode/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dineshgoud7/leetcode/tree/master/0509-fibonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/dineshgoud7/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
