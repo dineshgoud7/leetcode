@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/dineshgoud7/leetcode/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/dineshgoud7/leetcode/tree/master/0177-nth-highest-salary) |
 ## Brainteaser
 |  |
 | ------- |
