@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dineshgoud7/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dineshgoud7/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/dineshgoud7/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/dineshgoud7/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/dineshgoud7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dineshgoud7/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dineshgoud7/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dineshgoud7/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dineshgoud7/leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/dineshgoud7/leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshgoud7/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/dineshgoud7/leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/dineshgoud7/leetcode/tree/master/0541-reverse-string-ii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/dineshgoud7/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dineshgoud7/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dineshgoud7/leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/dineshgoud7/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/dineshgoud7/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/dineshgoud7/leetcode/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/dineshgoud7/leetcode/tree/master/0509-fibonacci-number) |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/dineshgoud7/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dineshgoud7/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
