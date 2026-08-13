@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dineshgoud7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dineshgoud7/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dineshgoud7/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/dineshgoud7/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dineshgoud7/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/dineshgoud7/leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/dineshgoud7/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dineshgoud7/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dineshgoud7/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/dineshgoud7/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dineshgoud7/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/dineshgoud7/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/dineshgoud7/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dineshgoud7/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dineshgoud7/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dineshgoud7/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/dineshgoud7/leetcode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/dineshgoud7/leetcode/tree/master/0912-sort-an-array) |
@@ -152,12 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dineshgoud7/leetcode/tree/master/0169-majority-element) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dineshgoud7/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dineshgoud7/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dineshgoud7/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/dineshgoud7/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/dineshgoud7/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -219,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/dineshgoud7/leetcode/tree/master/0202-happy-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dineshgoud7/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
