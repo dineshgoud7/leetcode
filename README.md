@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/dineshgoud7/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/dineshgoud7/leetcode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/dineshgoud7/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/dineshgoud7/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/dineshgoud7/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/dineshgoud7/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/dineshgoud7/leetcode/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/dineshgoud7/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dineshgoud7/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2525-categorize-box-according-to-criteria](https://github.com/dineshgoud7/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3280-convert-date-to-binary](https://github.com/dineshgoud7/leetcode/tree/master/3280-convert-date-to-binary) |
