@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dineshgoud7/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dineshgoud7/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dineshgoud7/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/dineshgoud7/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dineshgoud7/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dineshgoud7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/dineshgoud7/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dineshgoud7/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dineshgoud7/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dineshgoud7/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/dineshgoud7/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dineshgoud7/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dineshgoud7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dineshgoud7/leetcode/tree/master/0414-third-maximum-number) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dineshgoud7/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dineshgoud7/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/dineshgoud7/leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/dineshgoud7/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshgoud7/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/dineshgoud7/leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/dineshgoud7/leetcode/tree/master/0541-reverse-string-ii) |
