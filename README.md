@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dineshgoud7/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/dineshgoud7/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/dineshgoud7/leetcode/tree/master/2670-find-the-distinct-difference-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dineshgoud7/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dineshgoud7/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/dineshgoud7/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dineshgoud7/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/dineshgoud7/leetcode/tree/master/3280-convert-date-to-binary) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dineshgoud7/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dineshgoud7/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dineshgoud7/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dineshgoud7/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
