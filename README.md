@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/dineshgoud7/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dineshgoud7/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2525-categorize-box-according-to-criteria](https://github.com/dineshgoud7/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
+| [2769-find-the-maximum-achievable-number](https://github.com/dineshgoud7/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dineshgoud7/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/dineshgoud7/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dineshgoud7/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
