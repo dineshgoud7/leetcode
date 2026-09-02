@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/dineshgoud7/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/dineshgoud7/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dineshgoud7/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/dineshgoud7/leetcode/tree/master/3668-restore-finishing-order) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dineshgoud7/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dineshgoud7/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dineshgoud7/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2670-find-the-distinct-difference-array](https://github.com/dineshgoud7/leetcode/tree/master/2670-find-the-distinct-difference-array) |
+| [3668-restore-finishing-order](https://github.com/dineshgoud7/leetcode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/dineshgoud7/leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
