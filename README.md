@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/dineshgoud7/leetcode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/dineshgoud7/leetcode/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/dineshgoud7/leetcode/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/dineshgoud7/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1929-concatenation-of-array](https://github.com/dineshgoud7/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dineshgoud7/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/dineshgoud7/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dineshgoud7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/dineshgoud7/leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/dineshgoud7/leetcode/tree/master/0541-reverse-string-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/dineshgoud7/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dineshgoud7/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dineshgoud7/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dineshgoud7/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/dineshgoud7/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/dineshgoud7/leetcode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/dineshgoud7/leetcode/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/dineshgoud7/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dineshgoud7/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dineshgoud7/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
