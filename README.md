@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/dineshgoud7/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dineshgoud7/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/dineshgoud7/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/dineshgoud7/leetcode/tree/master/0509-fibonacci-number) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/dineshgoud7/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dineshgoud7/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dineshgoud7/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Pigeonhole Principle
