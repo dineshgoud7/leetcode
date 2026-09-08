@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/dineshgoud7/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dineshgoud7/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2810-faulty-keyboard](https://github.com/dineshgoud7/leetcode/tree/master/2810-faulty-keyboard) |
+| [3110-score-of-a-string](https://github.com/dineshgoud7/leetcode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/dineshgoud7/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3794-reverse-string-prefix](https://github.com/dineshgoud7/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Stack
