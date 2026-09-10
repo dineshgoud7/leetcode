@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/dineshgoud7/leetcode/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/dineshgoud7/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/dineshgoud7/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1470-shuffle-the-array](https://github.com/dineshgoud7/leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/dineshgoud7/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/dineshgoud7/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dineshgoud7/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
