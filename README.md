@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/dineshgoud7/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dineshgoud7/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dineshgoud7/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/dineshgoud7/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/dineshgoud7/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2810-faulty-keyboard](https://github.com/dineshgoud7/leetcode/tree/master/2810-faulty-keyboard) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dineshgoud7/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/dineshgoud7/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
