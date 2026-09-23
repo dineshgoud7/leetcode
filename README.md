@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/dineshgoud7/leetcode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/dineshgoud7/leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/dineshgoud7/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dineshgoud7/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dineshgoud7/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dineshgoud7/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dineshgoud7/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/dineshgoud7/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/dineshgoud7/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dineshgoud7/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dineshgoud7/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
 | ------- |
