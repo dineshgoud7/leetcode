@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/dineshgoud7/leetcode/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/dineshgoud7/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/dineshgoud7/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/dineshgoud7/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dineshgoud7/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dineshgoud7/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/dineshgoud7/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/dineshgoud7/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dineshgoud7/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dineshgoud7/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2000-reverse-prefix-of-word](https://github.com/dineshgoud7/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dineshgoud7/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dineshgoud7/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dineshgoud7/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/dineshgoud7/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dineshgoud7/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dineshgoud7/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/dineshgoud7/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
