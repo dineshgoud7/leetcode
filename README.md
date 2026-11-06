@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/dineshgoud7/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dineshgoud7/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/dineshgoud7/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/dineshgoud7/leetcode/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dineshgoud7/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/dineshgoud7/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dineshgoud7/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/dineshgoud7/leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/dineshgoud7/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dineshgoud7/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1528-shuffle-string](https://github.com/dineshgoud7/leetcode/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dineshgoud7/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dineshgoud7/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/dineshgoud7/leetcode/tree/master/2000-reverse-prefix-of-word) |
