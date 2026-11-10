@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/dineshgoud7/leetcode/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/dineshgoud7/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/dineshgoud7/leetcode/tree/master/3110-score-of-a-string) |
+| [3210-find-the-encrypted-string](https://github.com/dineshgoud7/leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3280-convert-date-to-binary](https://github.com/dineshgoud7/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/dineshgoud7/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/dineshgoud7/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
