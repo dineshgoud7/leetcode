@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/dineshgoud7/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/dineshgoud7/leetcode/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dineshgoud7/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1672-richest-customer-wealth](https://github.com/dineshgoud7/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dineshgoud7/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/dineshgoud7/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dineshgoud7/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -453,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dineshgoud7/leetcode/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/dineshgoud7/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
