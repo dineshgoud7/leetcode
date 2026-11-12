@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/dineshgoud7/leetcode/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/dineshgoud7/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/dineshgoud7/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dineshgoud7/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dineshgoud7/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/dineshgoud7/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dineshgoud7/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/dineshgoud7/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dineshgoud7/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dineshgoud7/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dineshgoud7/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/dineshgoud7/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/dineshgoud7/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dineshgoud7/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
