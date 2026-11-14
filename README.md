@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/dineshgoud7/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/dineshgoud7/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dineshgoud7/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dineshgoud7/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dineshgoud7/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/dineshgoud7/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dineshgoud7/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/dineshgoud7/leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/dineshgoud7/leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/dineshgoud7/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dineshgoud7/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/dineshgoud7/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dineshgoud7/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dineshgoud7/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dineshgoud7/leetcode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/dineshgoud7/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/dineshgoud7/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dineshgoud7/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dineshgoud7/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dineshgoud7/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/dineshgoud7/leetcode/tree/master/3731-find-missing-elements) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dineshgoud7/leetcode/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dineshgoud7/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Database
 |  |
 | ------- |
