@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dineshgoud7/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dineshgoud7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dineshgoud7/leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/dineshgoud7/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dineshgoud7/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/dineshgoud7/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dineshgoud7/leetcode/tree/master/0075-sort-colors) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dineshgoud7/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dineshgoud7/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/dineshgoud7/leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/dineshgoud7/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dineshgoud7/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/dineshgoud7/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/dineshgoud7/leetcode/tree/master/0169-majority-element) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dineshgoud7/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dineshgoud7/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dineshgoud7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dineshgoud7/leetcode/tree/master/0169-majority-element) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dineshgoud7/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dineshgoud7/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dineshgoud7/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/dineshgoud7/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/dineshgoud7/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/dineshgoud7/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/dineshgoud7/leetcode/tree/master/0205-isomorphic-strings) |
